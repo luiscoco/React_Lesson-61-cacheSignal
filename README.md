@@ -1,4 +1,4 @@
-# cacheSignal Playground (React 19.2)
+# React 19.2 - Lesson 61 - cacheSignal
 
 This is a tiny **Next.js App Router** repo that runs on **React Server Components**, so you can keep all the `cacheSignal()` examples in one place. `cacheSignal` is documented as **React Server Components-only** right now.
 
